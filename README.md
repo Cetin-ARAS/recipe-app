@@ -1,18 +1,12 @@
 https://recipe-ca.netlify.app/
 
 
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
-
-# Project-004 : Recipe App (RC-04)
+# Project : Recipe App (RC-04)
 
 ## Description
 
 Project aims to create a Recipe App.
 
-## Problem Statement
-
-- We are adding a new project to our portfolios. So you and your colleagues have started to work on the project.
 
 ## Project Skeleton
 
@@ -60,7 +54,7 @@ SOLUTION
 
 ## Expected Outcome
 
-![Project 004 Snapshot](food-search-app.gif)
+![Project  Snapshot](food-search-app.gif)
 
 ## Objective
 
