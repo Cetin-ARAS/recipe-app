@@ -1,7 +1,7 @@
 https://recipe-ca.netlify.app/
 
 
-# Project : Recipe App (RC-04)
+# Project : Recipe App 
 
 ## Description
 
@@ -11,7 +11,7 @@ Project aims to create a Recipe App.
 ## Project Skeleton
 
 ```
-004 - Recipe App (folder)
+Recipe App (folder)
 |
 |----readme.md         # Given to the students (Definition of the project)
 SOLUTION
