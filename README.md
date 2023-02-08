@@ -1,4 +1,4 @@
-https://recipe-ca.netlify.app/
+https://recipe-projects.netlify.app/
 
 
 # Project : Recipe App 
