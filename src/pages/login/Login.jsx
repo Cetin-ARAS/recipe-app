@@ -12,6 +12,7 @@ import mealSvg from '../../assets/meal.svg';
 import { useNavigate } from 'react-router-dom';
 
 const Login = () => {
+  
   const navigate = useNavigate();
 
   const userInfo = {

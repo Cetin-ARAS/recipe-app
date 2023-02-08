@@ -16,7 +16,7 @@ const Navbar = () => {
         <GiHamburgerMenu />
       </Hamburger>
 
-      <Menu isOpen={isOpen} onClick={() => setIsOpen(false)}>
+      <Menu isOpen={isOpen} onClick={() => setIsOpen(false)}>  
         <MenuLink to="/">Home</MenuLink>
         <MenuLink to="about">About</MenuLink>
         <MenuLink to="register">Register</MenuLink>
